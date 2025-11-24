@@ -1,3 +1,9 @@
+/**
+ * Kelas ItemKeranjang merepresentasikan satu baris item di keranjang 
+ * yang mencakup objek Barang dan Jumlah yang dibeli.
+ * @author Nama Anda
+ */
+
 // cspell:ignore fleurist ItemKeranjang getBarang getJumlah setJumlah getSubtotal tambahBarang hapusBarang idBarang getItems totalKeranjang kosongkan
 package com.fleurist.model;
 
