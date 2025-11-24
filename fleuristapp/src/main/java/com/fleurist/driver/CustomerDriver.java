@@ -1,4 +1,9 @@
-// cspell:ignore fleurist Selamat datang Lihat Katalog Tambah Barang Keranjang Checkout Riwayat Transaksi Logout Pilih Masukkan ditemukan Jumlah ditambahkan kosong metode pembayaran Transfer Pilihan aktif dikembangkan getDiskonByKode Buat bayar berhasil Belum ada generate
+/**
+ * Kelas CustomerDriver menangani semua logika interaksi CLI khusus untuk Customer,
+ * termasuk melihat katalog dan checkout.
+ * @author Kelompok 11
+ */
+
 package com.fleurist.driver;
 
 import com.fleurist.account.Customer;
