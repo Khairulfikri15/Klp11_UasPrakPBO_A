@@ -1,3 +1,9 @@
+/**
+ * Kelas ProductCatalog berfungsi sebagai database lokal 
+ * yang menyimpan list semua Barang dan Diskon.
+ * @author Kelompok 11
+ */
+
 package com.fleurist.model;
 
 import java.util.ArrayList;
