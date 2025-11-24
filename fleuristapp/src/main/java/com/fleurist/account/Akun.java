@@ -1,4 +1,9 @@
-// cspell:ignore fleurist
+/**
+ * Kelas Akun adalah kelas induk (Superclass) yang merepresentasikan
+ * pengguna sistem (Admin dan Customer) dan menangani otentikasi dasar.
+ * Ini adalah bagian dari implementasi Inheritence (Pewarisan) proyek.
+ * @author Kelompok 11
+ */
 package com.fleurist.account;
 
 public abstract class Akun {
