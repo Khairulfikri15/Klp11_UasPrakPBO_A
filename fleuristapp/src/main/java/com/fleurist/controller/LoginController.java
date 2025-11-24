@@ -1,3 +1,9 @@
+/**
+ * Kelas LoginController mengontrol logika login dan registrasi 
+ * pengguna baru pada tampilan awal aplikasi.
+ * @author Nama Anda
+ */
+
 package com.fleurist.controller;
 
 import com.fleurist.App;
