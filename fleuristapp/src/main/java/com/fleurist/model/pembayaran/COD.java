@@ -1,4 +1,8 @@
-// cspell:ignore fleurist getNamaMetode Delivery prosesPembayaran simulasi
+/**
+ * Kelas COD (Cash on Delivery) adalah salah satu implementasi Polymorphism 
+ * dari interface Pembayaran.
+ * @author Kelompok 11
+ */
 package com.fleurist.model.pembayaran;
 
 public class COD implements Pembayaran {
