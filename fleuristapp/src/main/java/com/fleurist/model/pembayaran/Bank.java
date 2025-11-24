@@ -1,4 +1,8 @@
-// cspell:ignore fleurist bankName getNamaMetode Transfer prosesPembayaran simulasi
+/**
+ * Kelas Bank (Bank Transfer) adalah salah satu implementasi Polymorphism 
+ * dari interface Pembayaran.
+ * @author Kelompok 11
+ */
 package com.fleurist.model.pembayaran;
 
 public class Bank implements Pembayaran {
