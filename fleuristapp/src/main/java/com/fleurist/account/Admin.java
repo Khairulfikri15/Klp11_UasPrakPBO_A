@@ -1,3 +1,8 @@
+/**
+ * Kelas Admin merepresentasikan pengguna dengan hak akses penuh 
+ * untuk mengelola katalog, diskon, dan status transaksi.
+ * @author Kelompok 11
+ */
 // cspell:ignore fleurist bertanggung jawab untuk menerima transaksi menyimpan katalog parameter sehingga controller mengatur dependency injection sederhana delegated tambahBarang hapusBarang idBarang memberi menggantikan memanggil mengisi sebelum editBarang barangBaru handling lihat daftar menyediakan representasi perilaku lihatTransaksi getIdTransaksi getTotalAkhir isDiterimaAdmin Menerima menandai diterima membuat mengembalikan memastikan mengupdate setelah terimaTransaksi sudah
 package com.fleurist.account;
 
