@@ -1,7 +1,7 @@
 /**
  * Kelas CustomerController menangani semua event dan logika tampilan 
  * untuk Dashboard Customer (Katalog, Keranjang, dan History Transaksi).
- * @author Nama Anda
+ * @author Kelompok 11
  */
 
 package com.fleurist.controller;
