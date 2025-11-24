@@ -1,7 +1,7 @@
 /**
- * Kelas ItemKeranjang merepresentasikan satu baris item di keranjang 
- * yang mencakup objek Barang dan Jumlah yang dibeli.
- * @author Nama Anda
+ * Kelas Keranjang adalah wadah untuk menyimpan semua ItemKeranjang 
+ * dan menghitung total harga subtotal.
+ * @author Kelompok 11
  */
 
 // cspell:ignore fleurist ItemKeranjang getBarang getJumlah setJumlah getSubtotal tambahBarang hapusBarang idBarang getItems totalKeranjang kosongkan
