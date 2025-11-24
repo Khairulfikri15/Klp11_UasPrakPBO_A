@@ -1,3 +1,9 @@
+/**
+ * Kelas Diskon merepresentasikan kode voucher yang dapat diterapkan 
+ * pada transaksi checkout.
+ * @author Kelompok 11
+ */
+
 // cspell:ignore fleurist idDiskon namaDiskon persen contoh getIdDiskon setIdDiskon getNamaDiskon setNamaDiskon getPersen setPersen isAktif setAktif Mengaktifkan aktifkan Menonaktifkan nonaktifkan AKTIF NONAKTIF
 package com.fleurist.model;
 
