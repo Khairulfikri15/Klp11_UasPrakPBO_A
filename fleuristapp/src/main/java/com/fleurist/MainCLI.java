@@ -1,3 +1,9 @@
+/**
+ * Kelas MainCLI adalah entry point alternatif untuk menjalankan 
+ * aplikasi melalui Command Line Interface (CLI) tanpa GUI.
+ * @author Kelompok 11
+ */
+
 package com.fleurist;
 
 import com.fleurist.account.Akun;
