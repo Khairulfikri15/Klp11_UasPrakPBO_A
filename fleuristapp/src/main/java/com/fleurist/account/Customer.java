@@ -1,3 +1,9 @@
+/**
+ * Kelas Customer merepresentasikan pengguna yang dapat berbelanja 
+ * (menambahkan ke keranjang dan melakukan checkout).
+ * Kelas ini memiliki objek Keranjang.
+ * @author Kelompok 11
+ */
 // cspell:ignore fleurist memiliki keranjang riwayat operasi belanja Checkout membuat penempatan dilakukan namaLengkap getNamaLengkap getKeranjang getHistory tambahKeKeranjang jumlah harus cukup hapusDariKeranjang idBarang Buat objek mengosongkan sesuai alur pengolahan lebih lanjut pembayaran verifikasi metode dipakai boleh checkout getItems isEmpty kosong salinan dalam Setelah menerima sebaiknya memanggil punya tambahHistory
 package com.fleurist.account;
 
