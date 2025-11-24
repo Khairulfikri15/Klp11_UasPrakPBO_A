@@ -1,3 +1,8 @@
+/**
+ * Kelas Barang merepresentasikan objek produk yang dijual di toko bunga.
+ * @author kelompok 11
+ */
+
 package com.fleurist.model;
 
 public class Barang {
