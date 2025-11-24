@@ -1,3 +1,8 @@
+/**
+ * Kelas App adalah entry point utama aplikasi JavaFX (GUI).
+ * Kelas ini bertanggung jawab untuk memuat scene login dan memulai Stage.
+ * @author Kelompok 11
+ */
 package com.fleurist;
 
 import javafx.application.Application;
