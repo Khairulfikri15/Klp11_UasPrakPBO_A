@@ -1,3 +1,9 @@
+/**
+ * Kelas AdminController mengontrol semua event dan interaksi pada 
+ * Dashboard Admin (Manajemen Barang dan Transaksi).
+ * @author Kelompok 11
+ */
+
 package com.fleurist.controller;
 
 import com.fleurist.App;
