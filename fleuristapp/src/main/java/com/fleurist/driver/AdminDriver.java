@@ -1,3 +1,9 @@
+/**
+ * Kelas AdminDriver menangani semua logika interaksi CLI khusus untuk Admin,
+ * termasuk CRUD barang dan manajemen transaksi.
+ * @author Kelompok 11
+ */
+
 package com.fleurist.driver;
 
 import com.fleurist.account.Admin;
