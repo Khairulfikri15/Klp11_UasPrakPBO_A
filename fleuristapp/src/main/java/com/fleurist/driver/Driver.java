@@ -1,3 +1,10 @@
+/**
+ * Kelas Driver berfungsi sebagai Service Layer statis (Singleton pattern).
+ * Kelas ini memuat semua data awal (Dummy data) dan mengelola list 
+ * global Transaksi dan Akun.
+ * @author Kelompok 11
+ */
+
 package com.fleurist.driver;
 
 import com.fleurist.account.Akun;
