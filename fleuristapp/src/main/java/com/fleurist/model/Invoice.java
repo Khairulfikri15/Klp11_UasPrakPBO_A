@@ -1,3 +1,9 @@
+/**
+ * Kelas Invoice merepresentasikan dokumen bukti pembayaran 
+ * yang dihasilkan setelah transaksi diterima.
+ * @author Kelompok 11
+ */
+
 package com.fleurist.model;
 
 import com.fleurist.model.Keranjang.ItemKeranjang;
