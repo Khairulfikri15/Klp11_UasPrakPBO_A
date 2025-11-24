@@ -1,3 +1,9 @@
+/**
+ * Kelas Transaksi merepresentasikan seluruh proses pembelian 
+ * yang telah divalidasi dan dicatat di sistem.
+ * @author Kelompok 11
+ */
+
 // cspell:ignore fleurist idTransaksi metodePembayaran tanggal diterimaAdmin getTotalAkhir isAktif getPersen terimaTransaksi isDiterimaAdmin getIdTransaksi getKeranjang getMetodePembayaran getDiskon getTanggal
 package com.fleurist.model;
 
