@@ -1,3 +1,8 @@
+/**
+ * Kelas QRIS adalah salah satu implementasi Polymorphism 
+ * dari interface Pembayaran.
+ * @author Kelompok 11
+ */
 package com.fleurist.model.pembayaran;
 
 public class QRIS implements Pembayaran {
