@@ -1,3 +1,8 @@
+/**
+ * Interface Pembayaran adalah kontrak Abstraction (Abstraksi) untuk semua 
+ * metode pembayaran yang tersedia.
+ * @author Kelompok 11
+ */
 // cspell:ignore fleurist getNamaMetode prosesPembayaran
 package com.fleurist.model.pembayaran;
 
