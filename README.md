@@ -14,12 +14,17 @@ Secara keseluruhan, aplikasi ini dirancang untuk mensimulasikan proses jual beli
 
 
 **# Hasil Output GUI**
+
 Tampilan Login:
-<img width="672" height="851" alt="image" src="https://github.com/user-attachments/assets/184d3f8e-8c93-44bb-b25c-4223456b3be7" />
+
+<img width="422" height="601" alt="image" src="https://github.com/user-attachments/assets/184d3f8e-8c93-44bb-b25c-4223456b3be7" />
+
+
 
 Tampilan Customer:
-<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/5d36627b-2f9b-453f-928f-830a6fc880e4" />
+<img width="1300" height="494" alt="image" src="https://github.com/user-attachments/assets/5d36627b-2f9b-453f-928f-830a6fc880e4" />
+
 
 Tampilan Admin:
-<img width="1600" height="811" alt="image" src="https://github.com/user-attachments/assets/b8af5f84-9a9d-45ae-a2ca-a735b65bd2b5" />
+<img width="1300" height="511" alt="image" src="https://github.com/user-attachments/assets/b8af5f84-9a9d-45ae-a2ca-a735b65bd2b5" />
 
